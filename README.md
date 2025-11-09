@@ -109,11 +109,11 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 This project is open source and available under the [MIT License](LICENSE).
 
-Copyright (c) 2025 Mudita Trey
+Copyright (c) 2025 Mudit Atrey
 
 ## 👤 Author
 
-Created with ❤️ by Mudita Trey
+Created with ❤️ by Mudit Atrey
 
 ## 🙏 Acknowledgments
 
