@@ -2,6 +2,9 @@
 """
 Weather TUI - Terminal User Interface for Weather API
 A beautiful terminal interface to fetch weather data by city.
+
+MIT License
+Copyright (c) 2025 Mudita Trey
 """
 
 import requests
