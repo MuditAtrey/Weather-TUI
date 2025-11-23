@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+
 """
 Weather TUI - Terminal User Interface for Weather API
 A beautiful terminal interface to fetch weather data by city.

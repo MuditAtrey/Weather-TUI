@@ -31,7 +31,7 @@ A beautiful Terminal User Interface (TUI) for fetching real-time weather data fo
 
 ## 🚀 Getting Started
 
-### Prerequisites
+### Prerequisites 
 
 - Python 3.7 or higher
 - pip (Python package manager)
