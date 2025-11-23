@@ -12,6 +12,10 @@ A beautiful Terminal User Interface (TUI) for fetching real-time weather data fo
 - 🔄 **Interactive Menu** - Search multiple cities in one session
 - ⚡ **Fast and Responsive** - Powered by parse.bot weather API
 
+## 🔌 About parse.bot
+
+parse.bot is a powerful service that generates APIs for basically any website. Instead of scraping websites manually or dealing with complex data extraction, parse.bot does the heavy lifting. You simply provide a URL, and it creates a clean, structured API endpoint that returns the data you need in JSON format. This makes it incredibly easy to integrate data from any website into your applications without worrying about HTML parsing, rate limits, or changing website structures.
+
 ## 📸 Screenshots
 
 ### Initial View
